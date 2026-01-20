@@ -31,7 +31,3 @@ Gợi ý và lỗi thường gặp
 
 Tệp kết quả
 - Các cửa sổ hiển thị `result` và `result1_stitching` (OpenCV imshow). Bạn có thể lưu thủ công trong `gpu-project.cpp`.
-
-Nếu muốn, tôi có thể:
-- Thêm script `build_and_run.bat` trong `ban_cu/` để chạy tự động.
-- Sửa code để tự động phát hiện overlap (khuyến nghị).

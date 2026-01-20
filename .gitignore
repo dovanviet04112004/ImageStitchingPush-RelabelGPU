@@ -1,0 +1,23 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+
+# Python
+__pycache__/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# CUDA temporary
+*.ptx
+
+# Large image outputs (uncomment to ignore images when publishing)
+# images/
